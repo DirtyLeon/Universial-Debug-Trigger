@@ -1,0 +1,18 @@
+{
+  "name": "com.dirtyworks.universialdebugtrigger",
+  "version": "1.0.0",
+  "displayName": "DW Universial Debug Trigger",
+  "description": "A very simple inspector trigger for triggering UnityEvents.",
+  "unity": "2021.3",
+  "keywords": [
+    "Debugging",
+    "Trigger",
+    "UnityEvent",
+    "DirtyWorks"
+  ],
+  "author": {
+    "name": "DirtyLeon",
+    "email": "bsexp357079@gmail.com",
+    "url": "https://sites.google.com/view/dirtyworksstudio"
+  }
+}
